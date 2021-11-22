@@ -1,0 +1,11 @@
+D:\Microsoft Visual Studio\Scan1\Scan1\bin\Debug\Scan1.exe.config
+D:\Microsoft Visual Studio\Scan1\Scan1\bin\Debug\Scan1.exe
+D:\Microsoft Visual Studio\Scan1\Scan1\bin\Debug\Scan1.pdb
+D:\Microsoft Visual Studio\Scan1\Scan1\obj\Debug\Scan1.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Scan1\Scan1\obj\Debug\Scan1.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Scan1\Scan1\obj\Debug\Scan1.Form1.resources
+D:\Microsoft Visual Studio\Scan1\Scan1\obj\Debug\Scan1.Properties.Resources.resources
+D:\Microsoft Visual Studio\Scan1\Scan1\obj\Debug\Scan1.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Scan1\Scan1\obj\Debug\Scan1.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Scan1\Scan1\obj\Debug\Scan1.exe
+D:\Microsoft Visual Studio\Scan1\Scan1\obj\Debug\Scan1.pdb
